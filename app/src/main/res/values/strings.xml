@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Kotlin App</string>
+    <string name="text1">Welcome to the App!</string>
+    <string name="text2">This is the second text.</string>
+    <string name="text3">Here is some more information.</string>
+    <string name="text4">Enjoy exploring the app!</string>
+    <string name="text5">Thank you for using this app.</string>
+    <string name="button_text">Proceed to Next Screen</string>
+    <string name="final_text">Final Data: %1$s</string>
+</resources>
